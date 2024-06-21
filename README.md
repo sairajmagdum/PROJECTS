@@ -24,5 +24,4 @@ The analysis employs a combination of code inspection and knowledge of OOP princ
 - Code flow and interaction between different parts.
 - Implementation of OOP concepts like encapsulation and polymorphism (limited in this code).
 
-Feel free to enhance this README with additional information, installation instructions, usage examples, and any other relevant details.
 
