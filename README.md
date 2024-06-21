@@ -4,6 +4,9 @@ The code offers core functionalities for a basic payroll system:
 •	Department Management: Departments can be created to categorize employees.
 •	Payroll Processing: Employees' salaries and overtime are considered for calculating gross pay.
 •	Payslip Generation: A basic payslip with employee name, department, and gross pay is generated.
+
+
+
 Methodology:
 The analysis employs a combination of code inspection and knowledge of OOP principles. The report examines:
 •	Class definitions and their attributes (data) and methods (functions).
